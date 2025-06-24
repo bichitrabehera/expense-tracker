@@ -1,2 +1,2 @@
 export const API_URL =
-  "https://expense-tracker-app-production-90fb.up.railway.app/api";
+  "https://expense-tracker-production-4a59.up.railway.app/api";
